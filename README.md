@@ -4,8 +4,8 @@
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=AleksaPapovic&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide=issues,contribs">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksaPapovic&layout=compact&hide_border=true&langs_count=10&hide=html,css">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=AleksaPapovic&theme=windows-dark&border_radius=5)](https://git.io/streak-stats)
 </p>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AleksaPapovic&theme=dark)](https://git.io/streak-stats)
 <!--
 **AleksaPapovic/AleksaPapovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
